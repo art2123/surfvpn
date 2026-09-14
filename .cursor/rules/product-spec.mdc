@@ -1,0 +1,27 @@
+---
+description: Surf VPN product facts for ads and copy — locations, prices, apps, what not to invent
+alwaysApply: true
+---
+
+# Product claims
+
+Source of truth for what the service **is**: `общее/техспека.md`. Support macros: `общее/поддержка.md`. Funnel/analytics snapshot: `общее/продукт.md` (may lag the live price list).
+
+When writing ads, creatives, landing or bot copy:
+
+- **8 locations only:** Germany, Finland, USA, Russia, Sweden, Hong Kong, Lithuania, Netherlands. Not “100+ servers”. Russia flag in the app = YouTube, not bypass.
+- **Smart:** connect once, auto location, keeps working through blocks and our-side node issues. Do not dump “БС” jargon into ads.
+- **YouTube without ads on all nodes** (product note 14.09.2026). Do not invent what that means technically.
+- **AI (Gemini etc.) works on any node** — no need to pick a country for it.
+- **Split tunnel:** reachable RU / BY / KZ sites stay out of the VPN. Faster “home” internet, fewer “no VPN” lockouts. Always allow “не всегда”.
+- **Speed:** “высокая скорость” is ok. Do not invent Mbps, gigabit *user* speed, “unlimited speed”, or server counts. Gigabit on top nodes is capacity, not an ad number.
+- **Support is 19/7**, not 24/7. Smarts fail over targeted IP blocks / node drops.
+- Targeted per-site routing for a client group (esp. corp) is support/B2B, not mass-ad copy.
+- **No device cap** in the KB. Say iOS / Android / Windows / Mac / Linux / TV. Do not say “up to N devices” or “unlimited devices”.
+- **Family vs individual is unexplained.** Prices only. Do not invent slots, extra keys, or “for N people”.
+- Primary app is **Happ**. Also: V2Box, V2RayTun, Hiddify, V2RayNG, INCY, Clash Verge.
+- Live prices: individual 300 / 1 800 / 2 400 ₽; family 450 / 2 700 / 3 600 ₽. “From 100 ₽/mo” only with 24-month context.
+- Trial: 1 ₽ verification in the bot, then **auto-renew to 1 month**.
+- Referral: **+7 days** per paid referral — not +10% term.
+- TG Ads destination stays `@surfvpn`. Support/cabinet texts use `@getSurfVpnBot`.
+- Never put support promocodes, MTProto proxies, or one-off keys in ads.

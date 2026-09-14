@@ -1,0 +1,23 @@
+---
+description: Surf VPN Telegram Ads inventory lives in one Google Sheet
+alwaysApply: true
+---
+
+# Telegram Ads inventory
+
+Work in this sheet, not only local CSV:
+
+https://docs.google.com/spreadsheets/d/1wvTt9-o6-ojwUA7CxuEYagKlzOey7WJNlvs5OKrUdVI/edit
+
+- Access: gspread + `C:\Users\Admin\Documents\Antigravity\kapital\backend\credentials.json` (`voronkoff-capital@voronkoff-capital.iam.gserviceaccount.com`)
+- Tabs: `VPN-сервисы`, `Все остальное` (inventory); `Слаги` (login→slug, stable forever); `Креативы` (`i01`/`v01`/`t01`); `Списки` (`b01`/`c01`/`q01` members); `Связки` (created ads)
+- Destination bot: `@surfvpn`. Ad title = `tga_{pl}_{cr}_{tx}_{scope}_{slug}_{cab}` where `cab` is `eur` or `ton`. Same string in `?start` except Search (no start tag). Current cabinet TLGM/getSurfVPN is `eur`. Same bundle in two cabinets = two ads, two codes.
+- Default test: Initial budget €8, Daily budget €8, Daily views 1, On Hold. Start CPM: Channels single €1.50, lists/bots/search €2.00, Users €2.50. Raise +€0.30–0.50 if no impressions in 4–6h; cut ~20% if ≥80% of daily budget burns in <3h.
+- Click fraud: CTR ≥10% (after ~1k impressions) = pause On Hold the same day. Likely a channel click-bot. Confirm via clicks vs `bot_start` on that `tga_` tag. Mark the slug «склик» and do not reuse. A list ad cannot tell which member is dirty — pause the whole `c01`/`b01`.
+- Extra columns from t.me descriptions: `Поддержка`, `Связанные каналы`, `Чаты`, `Боты` (skip ads/reklama)
+- Keep: live users, posts, reactions, comments — like `@blancvpn`, `@fck_rkn_bot`, `@papervpnchat`, `@technoinsider`
+- Drop: Arabic/Persian, English-audience, config/key/MTProto giveaways
+
+Cabinet UI labels and create-ad fields: `общее/tgads-кабинет.md`. Speak those names (Target: Search / Bots / Users / Channels, CPM in Euro, Ad title, …).
+
+Ad bundle naming / `?start`: `общее/tgads-нейминг.md`. Format `tga_{pl}_{cr}_{tx}_{scope}_{slug}_{eur|ton}`. **Ad title** = that `start_param`. Do not mix with Direct `yd_` / `yclid`.
