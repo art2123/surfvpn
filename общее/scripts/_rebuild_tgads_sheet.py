@@ -13,7 +13,7 @@ from pathlib import Path
 from google.oauth2.service_account import Credentials
 import gspread
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parents[1]
 CACHE = ROOT / "secrets" / "tme_cards.json"
 CREDS = r"C:\Users\Admin\Documents\Antigravity\kapital\backend\credentials.json"
 SHEET_ID = "1wvTt9-o6-ojwUA7CxuEYagKlzOey7WJNlvs5OKrUdVI"

@@ -10,7 +10,7 @@ from pathlib import Path
 
 from playwright.sync_api import sync_playwright
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parents[1]
 SNAP = ROOT / "tgads-snapshots"
 SNAP.mkdir(exist_ok=True)
 

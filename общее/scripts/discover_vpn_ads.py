@@ -7,7 +7,7 @@
   3) Опционально TGSTAT_TOKEN — поиск рекламных постов через TGStat Search API.
 
 Запуск:
-  python общее/discover_vpn_ads.py
+  python общее/scripts/discover_vpn_ads.py
 """
 
 from __future__ import annotations
@@ -22,7 +22,7 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parents[1]
 IMPORTS = ROOT / "imports"
 SECRETS = ROOT / "secrets"
 KNOWN_CSV = ROOT / "tg-ads-каналы-и-боты.csv"

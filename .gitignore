@@ -1,0 +1,23 @@
+# Competitor archive — local reference only. Never commit or upload.
+blnc/
+
+# Local secrets / browser sessions
+/secrets/
+общее/secrets/*
+!общее/secrets/.gitignore
+**/chrome-*-profile/
+**/edge-*-profile/
+**/*cookies*.json
+**/*cookie*.db
+*.key
+
+# One-shot scratch
+общее/tmp/*
+!общее/tmp/README.md
+__pycache__/
+*.py[cod]
+.Python
+
+# OS
+.DS_Store
+Thumbs.db

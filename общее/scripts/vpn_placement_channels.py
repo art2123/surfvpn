@@ -6,7 +6,7 @@ from __future__ import annotations
 import csv
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "tg-ads-площадки.csv"
 BOTS_SRC = ROOT / "tg-ads-обнаруженные.csv"
 SKIP_BOTS = {

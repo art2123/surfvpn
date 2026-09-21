@@ -23,5 +23,5 @@ When writing ads, creatives, landing or bot copy:
 - Live prices: individual 300 / 1 800 / 2 400 ₽; family 450 / 2 700 / 3 600 ₽. “From 100 ₽/mo” only with 24-month context.
 - Trial: 1 ₽ verification in the bot, then **auto-renew to 1 month**.
 - Referral: **+7 days** per paid referral — not +10% term.
-- TG Ads destination stays `@surfvpn`. Support/cabinet texts use `@getSurfVpnBot`.
+- TG Ads destination: `@surfvpn` = `@getSurfVpnBot` (один бот, алиасы). В ads `promote_url` допустим любой.
 - Never put support promocodes, MTProto proxies, or one-off keys in ads.

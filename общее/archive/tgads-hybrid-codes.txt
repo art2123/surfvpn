@@ -1,0 +1,8 @@
+tga_c_x_t01_s_blokiruneta_eur
+tga_c_x_t04_s_blokiruneta_eur
+tga_c_x_t01_s_tginfo_eur
+tga_c_x_t04_s_tginfo_eur
+tga_c_x_t01_s_rozetked_eur
+tga_c_x_t04_s_rozetked_eur
+tga_c_x_t01_s_roskomsvoboda_eur
+tga_c_x_t04_s_roskomsvoboda_eur

@@ -14,7 +14,7 @@ import gspread
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parents[1]
 CREDS = r"C:\Users\Admin\Documents\Antigravity\kapital\backend\credentials.json"
 SHEET_ID = "1wvTt9-o6-ojwUA7CxuEYagKlzOey7WJNlvs5OKrUdVI"
 SCOPES = [

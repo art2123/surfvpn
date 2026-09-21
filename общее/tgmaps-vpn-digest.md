@@ -1,0 +1,180 @@
+# VPN TG Ads — TgMaps digest — 2026-09-20 12:27 UTC
+
+Источник: cabinet.tgmaps.ru `/api/creatives/find` + `/api/creatives/creative`.
+Креативов: **424**. Уникальных destination: **266**. Строк placement: **2892**.
+
+## Топ destination (по числу креативов)
+
+- **@happyvpn** — 10 креатив(ов), max channels_count=174 — _Happy vpn - подключение_
+- **@diggyvpnbot** — 9 креатив(ов), max channels_count=208 — _DIGGY VPN_
+- **@mypandavpn_bot** — 9 креатив(ов), max channels_count=9 — _Панда VPN_
+- **@whiteinet_bot** — 8 креатив(ов), max channels_count=4 — _Whiteinet VPN_
+- **@vihodvpn_bot** — 7 креатив(ов), max channels_count=66 — _ВыходЕсть - VPN_
+- **@vpn_naposledok_bot** — 7 креатив(ов), max channels_count=14 — _VPN Ванильный Пломбир Напоследок_
+- **@ghostlinknet_bot** — 7 креатив(ов), max channels_count=2 — _GhostLink_
+- **@elusionvpnbot** — 7 креатив(ов), max channels_count=1 — _Еlusion VPN | Обход глушилок_
+- **@aidapp** — 6 креатив(ов), max channels_count=6 — _AID APP | AID VPN_
+- **@vpnunibot** — 5 креатив(ов), max channels_count=30 — _VPNuniBot – VPN n.1_
+- **@korgivpnbot** — 5 креатив(ов), max channels_count=3 — _Корги VPN_
+- **@eldorado_vpn_bot** — 5 креатив(ов), max channels_count=1 — _Eldorado VPN 💎_
+- **@deampro_bot** — 4 креатив(ов), max channels_count=15 — _Proxy Deam_
+- **@skyvoravpn** — 4 креатив(ов), max channels_count=6 — _SkyvoraVPN_
+- **@entropy_vpnbot** — 4 креатив(ов), max channels_count=4 — _Entropy.VPN_
+- **@io_vpnbot** — 4 креатив(ов), max channels_count=2 — _iovpnbot_
+- **@open21vpn_bot** — 4 креатив(ов), max channels_count=2 — _Open 21 VPN|Стабильный доступ от 33₽🟢_
+- **@vpncutebot** — 3 креатив(ов), max channels_count=107 — _💙VPN CUTE💙_
+- **@kak_v_skazke_bot** — 3 креатив(ов), max channels_count=48 — _Как в сказке_
+- **@foxxxyvpnbot** — 3 креатив(ов), max channels_count=32 — _FOXXXY VPN_
+- **@nebbovpnbot** — 3 креатив(ов), max channels_count=11 — _NebboVPN - Небо без границ_
+- **@kitsuneix_bot** — 3 креатив(ов), max channels_count=4 — _kitsuneix_bot_
+- **@blik_vpn_bot** — 3 креатив(ов), max channels_count=4 — _Blik VPN_
+- **@liberovpn_bot** — 3 креатив(ов), max channels_count=4 — _LiberoVPN_
+- **@steel_wolf_bot** — 3 креатив(ов), max channels_count=4 — _Wolf VPN | Prostor VPN_
+- **@mybatyaonline_bot** — 3 креатив(ов), max channels_count=4 — _🔐Батя VPN - БОТ_
+- **@mycitadelbot** — 3 креатив(ов), max channels_count=3 — _My Citadel Bot_
+- **@workside_vpn_bot** — 3 креатив(ов), max channels_count=3 — _WorkSide VPN_
+- **@fightblock_bot** — 3 креатив(ов), max channels_count=3 — _FIGHT BLOCK VPN_
+- **@vpn_groza_bot** — 3 креатив(ов), max channels_count=1 — _ГРОЗА VPN ⚡️ — Быстрый и Надёжный ВПН_
+- **@easylinkvpn_bot** — 3 креатив(ов), max channels_count=1 — _EasyLink_
+- **@kchauvpn_bot** — 2 креатив(ов), max channels_count=91 — _KCHAU⚡️VPN_
+- **@why_pay_robot** — 2 креатив(ов), max channels_count=23 — _WHY | VPN_
+- **@milkyvpn_bot** — 2 креатив(ов), max channels_count=20 — _Milky 🤖_
+- **@gigabutlerbot** — 2 креатив(ов), max channels_count=16 — _ИИ-Консьерж_
+- **@gurmanosvpn_bot** — 2 креатив(ов), max channels_count=16 — _Gurmanos Security_
+- **@nodramavpn_bot** — 2 креатив(ов), max channels_count=14 — _NoDramaVPN_
+- **@prostovpnbot** — 2 креатив(ов), max channels_count=12 — _Просто! VPN_
+- **@risevpn_bot** — 2 креатив(ов), max channels_count=11 — _⚡️risevpnbot_
+- **@freelinkvpn_bot** — 2 креатив(ов), max channels_count=11 — _FreeLINK VPN_
+
+## Креативы с максимальным N площадок (идеал: одно объявление → много каналов)
+
+- **@ogrananet_bot** — **200** площадок (hash `cfea6ae9228b`)
+  - _⚡️ ТВОЙ VPN НЕ РАБОТАЕТ. Пришло время решить эту проблему. СТАРТ🔥_
+  - @aistarsss, @alenka_karabanova, @alisamyelophone, @amigurumi_iz_bisera, @amigurumibox, @andrushokart, @aonefilms, @art_shift, @artdevi_kazan, @artemusicum, @artspirit_dubai, @barboskiny …+188
+- **@Diggyvpnbot** — **196** площадок (hash `de5c486df6c1`)
+  - _🚀 VPN за 99 ₽/мес. ✅ С обходом глушилок и белых списков безлимит 🎁 3 дня бесплатно_
+  - @across_english, @akademiyarechispb, @aleksandersahniy, @alexandrakrivorychko, @angylisha, @animateadobe, @armamodels, @aromat_goda, @arsenalfc365, @asb1970tula, @avianovsav, @bdufstecru …+184
+- **@happyvpn** — **173** площадок (hash `f17528651c9a`)
+  - _❗️Обновите VPN до рабочей версии — старая не обходит новые блокировки.  Кнопка «Запустить»_
+  - @adm_rzhev, @aksakov_online, @aleksbessonov, @alexandrinsky, @amigurumi23, @amore_royal_anddolcenews, @anikimbaev, @annapirmatova, @anton_bogoslavich, @astronomyschool_online, @babyskris, @bezdoktorskoy …+161
+- **@happyvpn** — **142** площадок (hash `376515e58a82`)
+  - _❗️Обновите ключ своего VPN. Скоро он перестанет работать. Новая версия работает с Белым Списком.  Кнопка «Запустить»_
+  - @alexandrinsky, @allnews47, @animation_reels_video, @appystandoff, @artdevi_kazan, @artem_mama25, @basicmoscow, @belka_tsu, @biysc, @blog_makarochkina, @bradpittbaroque, @budgetmos …+130
+- **@happyvpn** — **110** площадок (hash `fa5f3d56244d`)
+  - _⭕️ Используйте VPN, который работает с Белыми списками. Чтобы Телеграм работал всегда. Нажимайте 👉ЗАПУСТИТЬ👈_
+  - @alina_djikaeva, @amigurumi23, @anyagalvideoreels, @astrojul_chatik, @atytatoo, @backender0, @belteanews, @calombour, @chamelanna, @clear_english_blog, @codifynews, @crimeainfo82 …+98
+- **@vpncutebot** — **104** площадок (hash `5f0826a3f7d7`)
+  - _🔗 VPN, который всегда работает. Быстрая настройка. Нажмите 👈 и протестируйте бесплатно 🎁_
+  - @a3gallery, @a_day_to_enjoy, @actio_pauliana, @akrk2018, @aksenia_nia_club, @alexgoodwindev, @alqamus, @amber_fringilla, @ananasskin, @association_naot, @cardiogram_uz, @chargeyourenglish …+92
+- **@kchauvpn_bot** — **89** площадок (hash `27f4f04ffa42`)
+  - _VPN за 100 ₽ в месяц. Работает даже при белых списках. Первые 3 дня бесплатно + месяц за каждого друга 👇_
+  - @alionapro_methodiku, @alqamus, @amerikanec046, @animalsinc, @anime_wa11paper, @animeznania, @annel_school, @auringontalo_suomea, @b2x_lubricants, @bibliothekprojektzukunft, @bigdata_world, @bihconsulting …+77
+- **@mycel_vpn_bot** — **73** площадок (hash `1ad747b9c297`)
+  - _Стабильный VPN для LTE-сетей: доступ к зарубежным сервисам без логов и ограничений скорости. Бесплатный тест без привязки карты._
+  - @agencyzvezda, @agi_and_rl, @ai_mind_set, @aimastersme, @aiwaac, @aldpro, @arz_swag, @billynogami423, @blitzpanorama, @crazy_day_admin, @crexcrexcrex, @cybercatstudio …+61
+- **@Diggyvpnbot** — **72** площадок (hash `62243a2db691`)
+  - _🚀 VPN за 99 ₽/мес. ✅ Без громких обещаний — проверьте сами. 🎁 Бесплатно 7 дней_
+  - @adm_krasnoyarsk, @alexandr_malkevich, @alipnitskaya_knit, @anthropologhetto, @ao_gtlk, @apphamburger, @art_and_exhibition, @askweber, @brain1food, @busy_bee_vishnevskaya, @caparctic, @christianbook_reading …+60
+- **@vihodvpn_bot** — **65** площадок (hash `81af5fe352f4`)
+  - _VPN без лишних заморочек 🔐🎁 3 дня бесплатно ⚡ Быстрое и стабильное подключение📱 Подключение прямо через Telegram_
+  - @a3gallery, @art_mip, @asp_mk, @asya_gvison, @belochkasaratov, @bioomberg, @christiangruppa, @dbvzk_photo, @dnevnik_dlya_mam, @dovbenkocollage, @dr_tretiakova_na, @dranikibrut …+53
+- **@Kadami_vpnbot** — **65** площадок (hash `efe3b029c7db`)
+  - _🌐  Устал платить 500-800₽ за VPN?      Kadami VPN - ⭐ 100₽ в месяц. ⭐Безлимит трафика ⭐Работает стабильно ⭐7 дней бесплатно  ⭐Быстрая настро…_
+  - @acdmgame, @adhh_official, @amiperevod, @anekdotik_tut, @animewebmtg, @apolloslivi, @archeoprivate, @aswineguide, @babin_ru, @beleebelogo, @blitzuniverse, @buildosha …+53
+- **@kak_v_skazke_bot** — **48** площадок (hash `862d34bca7a5`)
+  - _Свободный доступ к зарубежным ресурсам. Российские сервисы работают и не жалуются на VPN._
+  - @akyanhotelspb, @animworld002, @apazidi_go, @aquaartist, @art_mip, @artskillsclass, @asturias_para_todos, @cherniakhovskii, @colourholic, @dartydi1, @designcraftspeople, @drhkokc …+36
+- **@happyvpn** — **37** площадок (hash `f17820845d2b`)
+  - _🔄 Вышло обновление VPN. Старая версия уже не обходит блокировки — запусти за 10 секунд ⟶ СТАРТ_
+  - @alisamyelophone, @avirusyan, @belaz14101961, @bestchefsrecipes, @bloknotik_mamy, @bsmtatchl2024, @butaevaz, @buz_haus, @chefsharov, @dushabayana, @fadeeva132, @fckamaz_1981 …+25
+- **@Diggyvpnbot** — **36** площадок (hash `5d48255c70c4`)
+  - _🚀 Новый VPN 💰 99р/мес. c обходом глушилок. 🎁 Попробуйте 7 дней бесплатно._
+  - @active_vrn, @admlenin, @agiprd, @akademekb_live, @aomurmansk, @blacklistkld, @ceveneleven, @chesnok33, @chita_top, @dmd_live, @don24tv, @fmr_krasnodar …+24
+- **@surokvpnbot** — **34** площадок (hash `8d5ca663423c`)
+  - _VPN, который работает в России на всех устройствах. 3 дня бесплатно, дальше от 220 ₽ в месяц_
+  - @angela_molodets, @antonova_pro_marketing, @arkamarka_centre, @autoalesha2, @citadelstudy, @craghack_crypto, @dailyrealtimenews, @elena_fentsik, @gulnazschool, @hermesstudio, @humorous_pharmacy, @ilimgroupofficial …+22
+- **@FoxxxyVPNbot** — **32** площадок (hash `28ab54be3378`)
+  - _🦊 Приглашай друзей в FOXXXY VPN!  20% с каждого их пополнения + 30 дней VPN за первого приглашённого кто купил подписку. Делись ссылкой — ко…_
+  - @andreyzudenko72, @armeniamma, @artemroninlife, @blagraionamur, @cat2cats, @chefsharov, @fok_kms, @forestteacher, @igutsal, @kate_sweetsmile, @katerina_buhby_chat, @ksb_fanat …+20
+- **@gogs_vpn_bot** — **32** площадок (hash `e6f02f7f0f44`)
+  - _🚀 Быстрый и надежный VPN за 129 рублей в месяц. Забудьте о проблемах с подключением навсегда. Есть бесплатный пробный период._
+  - @artmuseumandbooks, @artzal23, @bleeesc, @chelovek_nauk, @chemodangroup, @citysaratov, @deti_videokurs, @detskiye_posobiya, @dysgraphia72, @ecosphere_press, @helga_nutrition1, @inthecenterofevents …+20
+- **@vihodvpn_bot** — **31** площадок (hash `cef6c6278bba`)
+  - _Путешествуй без интернет-ограничений - VPN прямо в Telegram, 3 дня бесплатно от 86 ₽/мес_
+  - @aalirerature, @adventuredogoff, @amber_fringilla, @anario_13, @annaaatkachenko, @azhukulovaa, @dreambeachclubmsk, @fund_anticorr, @goraiderevo, @hashtagiothomochki, @hyrx8nkuonsw5otji, @iarexru …+19
+- **@vpnunibot** — **30** площадок (hash `10ebc08d496a`)
+  - _Ваше время дороже экспериментов с VPN. Один клик — и все работает с @VPNuniBot._
+  - @anna_ustyuzhanina, @antoncopy25, @bankiskyanki, @bashadventure, @digitalpetya, @egproduct, @eliseeva_retail, @etovam_ne_xixonki, @exmuffin, @gracehoppers, @grishanastyamua, @kasparovaliana …+18
+- **@ProtectedNetworkBot** — **29** площадок (hash `67cab07c5a25`)
+  - _Быстрый и стабильный VPN без ограничений скорости. Безлимитный трафик, 14 дней бесплатно._
+  - @anna_officialls, @armavirturizm, @aroundlondonin40steps, @avia_trips, @discovery_magazine, @electronixch, @family_travel_motivation, @fareast_rus, @formula7cl, @grade_practicum, @hikingmax, @hutor_atamana …+17
+- **@sotka_install_bot** — **28** площадок (hash `0f5b4b02e19b`)
+  - _🛡 Сотка — это надежный VPN всего за 100 рублей в месяц.  Ваше время стоит дороже - чем бесконечно пробовать бесплатные варианты. Тест по ссы…_
+  - @basiprobball, @blondball, @ctenie_korana1, @daltonick, @designterror, @dressedto, @dtrailru, @filkorshunov, @fourdagang, @gurukripa_moscow, @islamiccapital, @kaliningradartmuseum …+16
+- **@vpnunibot** — **26** площадок (hash `7430143a6d2f`)
+  - _Если VPN заметен — это плохой VPN. Попробуйте тишину и стабильность с @VPNuniBot._
+  - @alexastylist, @belaes_oficial, @bigbalashiha, @cosmeoke, @cosmetologist_borzyh, @govanlifeapp, @guestbartending, @ironkingofficial, @ixbt_live, @jumagestravel, @kipchat, @kultur_no …+14
+- **@Istokvpnbot** — **24** площадок (hash `d3cc91062aad`)
+  - _Истокvpn - Самый лучший ВПН. Пробовать бесплатно!_
+  - @alinagorbachevarus, @alisiarise, @bydjamilya, @cgilab, @chisto_derevnya, @customs_bel, @dan_zapashny_live, @fata_morgana_project, @futureartlab_news, @journeyhomebook, @katukssaaa, @kiwihealthy …+12
+- **@Diggyvpnbot** — **22** площадок (hash `28e269eeebae`)
+  - _🚀 DIGGY — VPN с обходом 📶 белых списков и 📡 глушилок. ♾ Безлимитный трафик. 🎁 7 дней бесплатно, затем 💰 99 ₽/мес._
+  - @alexrazarenova, @artguide_com, @azbookaknigogoliki, @baza_smi, @drvailova, @goldabalabusta, @gruppasinara, @lana_parfblog, @livfashionmag, @meandsandrabulo4ka, @mwm1897, @myrun …+10
+- **@happyvpn** — **21** площадок (hash `11ceadf9cbf1`)
+  - _❗️ВНИМАНИЕ. VPN -- старая версия не обходит новые блокировки.  Кнопка «Запустить»_
+  - @aeterna_lover, @anekdotikiandrew, @balcony_city_farmer, @botanical_garden_vrn, @chefschoolperm, @comigration, @dig_artist, @dreamshelter, @figmatika, @ideal_inst, @indiedevgame, @ira_muromtseva …+9
+- **@Why_Pay_RoBot** — **20** площадок (hash `1562b4ae0562`)
+  - _🤩 VPN сервис всего за 199 рублей! Работают ЛЮБЫЕ сервисы ВЕЗДЕ! Подключиться 🤩_
+  - @alislamu_alhaqiqi, @dagestanfortress, @dagestantyr, @day365islam, @economicsmagazine, @islam40, @islam_differently, @islam_istorii, @islamgergebilskiy, @islamova_yuliya, @islamski_e, @khaleedranch …+8
+- **@MilkyVPN_bot** — **20** площадок (hash `b65fce19c258`)
+  - _Не работает VPN? 🎁 Milk VPN | 2 дня бесплатно, от 149₽ • Множество локаций • высокая скорость и доступные тарифы._
+  - @aboutzlata, @annapestova17, @aristovaanastasia, @bonyabohyun, @hvhfredom, @ivanovaknows, @javaproglib, @jazzblogvioletta, @jessclub, @magdalinasoull, @mediainsider, @monada_kedavra …+8
+- **@standupvpnbot** — **20** площадок (hash `f2b29527e8b9`)
+  - _Ваш VPN плохо работает? Наш работает стабильно. Первые 3 дня – бесплатно. Затем – 299₽/мес._
+  - @adelina_chatbot, @alenasteel_soul, @beautifuleverything, @fadeeva_visual, @firstofmarketing, @fredtm18, @instabalance, @julaila_marketing, @longbald, @marketing_in_the_kitchen, @marketing_pr_it, @marketingj …+8
+- **@vihodvpn_bot** — **19** площадок (hash `bd514ad91297`)
+  - _VPN для игр и Discord — 3 дня бесплатно, от 86 ₽/мес, подключение прямо в Telegram_
+  - @cherkashindev, @diceanalytics, @gamereviewskvm, @gamersroom, @greatgamer, @idiotstilechannel, @ilmatertg, @leo_crosstyt, @lezginoff, @loskych, @naparusevoneonom, @sheepstickcrmp …+7
+- **@VUNO_vpn_BOT** — **18** площадок (hash `74ab6316de75`)
+  - _🚀 Рекомендуем быстрый и безопасный VPN. От 20 рублей в месяц. 5 устройств в подписке 📱 Нажмите сюда и получите 5 дней в подарок 🎁_
+  - @arbekovopnz58, @byyanmurzaev, @coalslow, @familyplat, @gdemoidengi, @ifax_go, @knk_banki, @kolin_lova, @ksk_alrosa, @lerazarabotoklegko, @markstats, @norilsk_rabotaz …+6
+
+## Бренды по охвату площадок (уник. channel_login)
+
+- **@happyvpn** — 440 уник. площадок
+- **@diggyvpnbot** — 367 уник. площадок
+- **@ogrananet_bot** — 200 уник. площадок
+- **@vihodvpn_bot** — 141 уник. площадок
+- **@vpncutebot** — 105 уник. площадок
+- **@kchauvpn_bot** — 99 уник. площадок
+- **@mycel_vpn_bot** — 73 уник. площадок
+- **@kadami_vpnbot** — 65 уник. площадок
+- **@vpnunibot** — 64 уник. площадок
+- **@kak_v_skazke_bot** — 62 уник. площадок
+- **@surokvpnbot** — 34 уник. площадок
+- **@deampro_bot** — 34 уник. площадок
+- **@foxxxyvpnbot** — 34 уник. площадок
+- **@gogs_vpn_bot** — 32 уник. площадок
+- **@vpn_naposledok_bot** — 30 уник. площадок
+- **@protectednetworkbot** — 29 уник. площадок
+- **@sotka_install_bot** — 28 уник. площадок
+- **@istokvpnbot** — 24 уник. площадок
+- **@gigabutlerbot** — 23 уник. площадок
+- **@milkyvpn_bot** — 21 уник. площадок
+- **@why_pay_robot** — 21 уник. площадок
+- **@standupvpnbot** — 20 уник. площадок
+- **@nodramavpn_bot** — 19 уник. площадок
+- **@mypandavpn_bot** — 19 уник. площадок
+- **@nebbovpnbot** — 19 уник. площадок
+- **@vuno_vpn_bot** — 18 уник. площадок
+- **@easygorobot** — 17 уник. площадок
+- **@gurmanosvpn_bot** — 17 уник. площадок
+- **@mif_vpn_bot** — 17 уник. площадок
+- **@vpnzapret_bot** — 16 уник. площадок
+
+## Файлы
+
+- `общее/tgmaps-vpn-creatives.csv`
+- `общее/tgmaps-vpn-placements.csv`
+- `общее/tgads-snapshots/*_tgmaps_vpn_creatives.json`
+

@@ -10,11 +10,11 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[2]
 BLNC = ROOT / "blnc" / "blnc_docs_1"
 SHEETS = BLNC / "sheets-tgads"
 ADS = BLNC / "Anitgravity projects" / "tg ads report creator"
-OUT_DIR = Path(__file__).resolve().parent
+OUT_DIR = Path(__file__).resolve().parents[1]
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 JUNK_USERNAMES = {

@@ -1,0 +1,8 @@
+# Blanc dump is a local competitor archive. Do not index or upload.
+# Open a specific file when you need a reference.
+blnc/
+
+# Browser profiles (sessions). Scratch tmp is gitignored, not cursorignored.
+общее/secrets/chrome-tgads-profile/
+общее/secrets/edge-tgads-profile/
+__pycache__/
