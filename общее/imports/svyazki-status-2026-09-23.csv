@@ -1,0 +1,259 @@
+code,cab,slug,pl,came,trials,buyers,purchases,rev,tcr,bcr,budget,daily,cpm,verdict
+tga_b_x_t04_s_sota_eur,Active,sota,b,77,11,4,4,1200.0,14.3,5.2,12.16413,11.90113,10.01,SCALE
+tga_b_x_t01_s_sota_eur,Active,sota,b,72,11,2,2,770.0,15.3,2.8,14.84642,11.24642,10.01,SCALE
+tga_b_x_t04_s_getsurfvpnbo_eur,Active,getsurfvpnbo,b,57,8,9,24,15017.0,14.0,15.8,14.68,9.94,5,"own property — keep, not CAC proof"
+tga_b_x_t01_s_getsurfvpnbo_eur,Active,getsurfvpnbo,b,53,9,8,43,18844.0,17.0,15.1,14.765,9.965,5,"own property — keep, not CAC proof"
+tga_b_x_t09_s_atlantavpnbo_eur,Active,atlantavpnbo,b,50,2,1,1,300.0,4.0,2.0,5.0,5.0,8,"weak CR — hold, do not ramp"
+tga_b_x_t01_s_velvetvpnbot_eur,Stopped,velvetvpnbot,b,48,5,1,1,300.0,10.4,2.1,0.0,10.0,8,"revive? (stopped/hold, had buyers)"
+tga_b_x_t04_s_velvetvpnbot_eur,Stopped,velvetvpnbot,b,47,1,0,0,0.0,2.1,0.0,0.0,12.63,8.5,"do not revive (traffic, no buyers)"
+tga_c_x_t04_s_technoinside_eur,Active,technoinside,c,47,8,2,2,600.0,17.0,4.3,15.71142,15.42142,10.01,SCALE
+tga_b_x_t06_s_atlantavpnbo_eur,Active,atlantavpnbo,b,46,2,0,0,0.0,4.3,0.0,5.0,5.0,8,"NO SCALE (came, 0 buyers)"
+tga_b_x_t05_s_atlantavpnbo_eur,Active,atlantavpnbo,b,45,0,1,1,297.0,0.0,2.2,5.044,5.044,10,"weak CR — hold, do not ramp"
+tga_c_x_t01_s_technoinside_eur,Stopped,technoinside,c,36,0,1,1,300.0,0.0,2.8,0.0,17.7155,6.5,"revive? (stopped/hold, had buyers)"
+tga_b_x_t04_s_phantomvpnro_eur,Stopped,phantomvpnro,b,34,2,0,0,0.0,5.9,0.0,0.0,8.0,6,"do not revive (traffic, no buyers)"
+tga_b_x_t10_s_atlantavpnbo_eur,Active,atlantavpnbo,b,34,3,0,0,0.0,8.8,0.0,5.042,5.042,10,"NO SCALE (came, 0 buyers)"
+tga_b_x_t07_s_atlantavpnbo_eur,Active,atlantavpnbo,b,30,2,1,1,300.0,6.7,3.3,5.082,5.082,10,test / wait
+tga_b_x_t08_s_atlantavpnbo_eur,Active,atlantavpnbo,b,30,1,0,0,0.0,3.3,0.0,5.272,5.272,10,"NO SCALE (came, 0 buyers)"
+tga_b_x_t01_s_phantomvpnro_eur,Stopped,phantomvpnro,b,29,1,0,0,0.0,3.4,0.0,0.0,8.0,5,"do not revive (traffic, no buyers)"
+tga_b_x_t04_s_atlantavpnbo_eur,Deleted,atlantavpnbo,b,26,1,1,1,450.0,3.8,3.8,0.0,1.111,5,"revive? (stopped/hold, had buyers)"
+tga_b_x_t01_s_atlantavpnbo_eur,Deleted,atlantavpnbo,b,25,2,0,0,0.0,8.0,0.0,0.0,0.981,5,"do not revive (traffic, no buyers)"
+tga_b_x_t09_s_sota_eur,Active,sota,b,21,3,1,1,300.0,14.3,4.8,6.016,6.016,8,test / wait
+tga_b_x_t09_s_velvetvpnbot_eur,Active,velvetvpnbot,b,20,1,0,0,0.0,5.0,0.0,4.896,4.896,8,"NO SCALE (came, 0 buyers)"
+tga_c_x_t04_s_shadownetvpn_eur,Active,shadownetvpn,c,18,3,2,2,600.0,16.7,11.1,14.911,14.88,10.01,SCALE
+tga_b_x_t05_s_sota_eur,Active,sota,b,17,2,0,0,0.0,11.8,0.0,5.512,5.512,8,test / wait
+tga_b_x_t11_s_velvetvpnbot_eur,Active,velvetvpnbot,b,17,2,0,0,0.0,11.8,0.0,4.934,4.934,11,test / wait
+tga_c_x_t01_s_shadownetvpn_eur,Active,shadownetvpn,c,15,1,1,1,300.0,6.7,6.7,5.0,5.0,8,SCALE small (+€5–8)
+tga_b_x_t07_s_velvetvpnbot_eur,Active,velvetvpnbot,b,13,1,0,0,0.0,7.7,0.0,4.978,4.978,11,test / wait
+tga_b_x_t08_s_sota_eur,Active,sota,b,12,1,0,0,0.0,8.3,0.0,5.524,5.524,10,test / wait
+tga_b_x_t08_s_velvetvpnbot_eur,Active,velvetvpnbot,b,12,1,0,0,0.0,8.3,0.0,5.0,5.0,11,test / wait
+tga_c_x_t04_s_lagomvpn_eur,Active,lagomvpn,c,12,2,1,1,300.0,16.7,8.3,5.0,5.0,7.5,SCALE small (+€5–8)
+tga_b_x_t10_s_velvetvpnbot_eur,Active,velvetvpnbot,b,11,0,0,0,0.0,0.0,0.0,4.945,4.945,11,test / wait
+tga_b_x_t05_s_velvetvpnbot_eur,Active,velvetvpnbot,b,10,1,0,0,0.0,10.0,0.0,4.968,4.968,8,test / wait
+tga_b_x_t11_s_atlantavpnbo_eur,Active,atlantavpnbo,b,9,0,0,0,0.0,0.0,0.0,4.824,4.824,10,test / wait
+tga_b_x_t11_s_sota_eur,Active,sota,b,9,0,0,0,0.0,0.0,0.0,4.856,4.856,10,test / wait
+tga_b_x_t04_s_vpnrealbot_eur,Stopped,vpnrealbot,b,8,0,0,0,0.0,0.0,0.0,0.0,10.0,5,parked
+tga_c_x_t01_s_surfvpnnews_eur,Active,surfvpnnews,c,8,1,3,17,7816.0,12.5,37.5,19.23,19.96,10,"own property — keep, not CAC proof"
+tga_c_x_t04_s_adguardru_eur,Active,adguardru,c,8,1,1,1,300.0,12.5,12.5,22.526,17.7385,6.5,test / wait
+tga_b_x_t06_s_sota_eur,Active,sota,b,7,1,0,0,0.0,14.3,0.0,4.794,4.794,10,test / wait
+tga_c_x_t01_s_siriusvpn_eur,Active,siriusvpn,c,7,1,0,0,0.0,14.3,0.0,7.96,9.97,10.01,test / wait
+tga_b_x_t01_s_phonkvpnbot_eur,Stopped,phonkvpnbot,b,6,0,0,0,0.0,0.0,0.0,0.0,8.0,9,parked
+tga_b_x_t06_s_velvetvpnbot_eur,Active,velvetvpnbot,b,6,2,0,0,0.0,33.3,0.0,4.936,4.936,8,test / wait
+tga_b_x_t10_s_sota_eur,Active,sota,b,6,0,0,0,0.0,0.0,0.0,4.584,4.584,10,test / wait
+tga_c_x_t01_s_lagomvpn_eur,Stopped,lagomvpn,c,6,0,0,0,0.0,0.0,0.0,0.0,8.0,7.5,parked
+tga_c_x_t04_s_siriusvpn_eur,Stopped,siriusvpn,c,6,1,0,0,0.0,16.7,0.0,0.0,10.0,6,parked
+tga_c_x_t01_s_amneziavpnne_eur,Deleted,amneziavpnne,c,5,0,0,0,0.0,0.0,0.0,0.0,6.16,5,parked
+tga_c_x_t04_s_vpn1news_eur,Stopped,vpn1news,c,5,1,0,0,0.0,20.0,0.0,0.0,8.0,8.5,parked
+tga_c_x_t08_s_amneziavpnne_eur,Active,amneziavpnne,c,5,2,1,1,300.0,40.0,20.0,5.0,5.0,9,too small N — hold €5
+tga_b_x_t07_s_sota_eur,Active,sota,b,4,0,0,0,0.0,0.0,0.0,4.192,4.192,10,test / wait
+tga_c_x_t01_s_tginfo_eur,Active,tginfo,c,4,0,0,0,0.0,0.0,0.0,4.5885,4.857,10.01,test / wait
+tga_c_x_t08_s_quattrovpnne_eur,Active,quattrovpnne,c,4,0,0,0,0.0,0.0,0.0,4.979,3.979,13,test / wait
+tga_c_x_t09_s_amneziavpnne_eur,Active,amneziavpnne,c,4,1,0,0,0.0,25.0,0.0,4.792,4.792,9,test / wait
+tga_c_x_t09_s_siriusvpn_eur,Active,siriusvpn,c,4,0,0,0,0.0,0.0,0.0,4.935,4.935,10.01,test / wait
+tga_b_x_t04_s_gruvpnbot_eur,Stopped,gruvpnbot,b,3,0,0,0,0.0,0.0,0.0,0.0,8.0,6,parked
+tga_c_x_t01_s_blokiruneta_eur,Stopped,blokiruneta,c,3,0,0,0,0.0,0.0,0.0,0.0,5.0,5,parked
+tga_c_x_t04_s_surfvpnnews_eur,Active,surfvpnnews,c,3,1,2,7,1538.0,33.3,66.7,19.71,19.97,10,"own property — keep, not CAC proof"
+tga_c_x_t04_s_vpngen_eur,Stopped,vpngen,c,3,0,0,0,0.0,0.0,0.0,0.0,10.0,5,parked
+tga_c_x_t05_s_amneziavpnne_eur,Active,amneziavpnne,c,3,0,0,0,0.0,0.0,0.0,4.8162,4.8162,9,test / wait
+tga_c_x_t05_s_siriusvpn_eur,Active,siriusvpn,c,3,0,0,0,0.0,0.0,0.0,4.965,4.97,10.01,test / wait
+tga_c_x_t11_s_amneziavpnne_eur,Active,amneziavpnne,c,3,0,0,0,0.0,0.0,0.0,4.756,4.756,9,test / wait
+tga_b_x_t01_s_vpnuibot_eur,Stopped,vpnuibot,b,2,0,0,0,0.0,0.0,0.0,0.0,8.0,6,parked
+tga_b_x_t04_s_phonkvpnbot_eur,Stopped,phonkvpnbot,b,2,0,0,0,0.0,0.0,0.0,0.0,8.0,8,parked
+tga_b_x_t04_s_vpnuibot_eur,Stopped,vpnuibot,b,2,0,0,0,0.0,0.0,0.0,0.0,8.0,6,parked
+tga_c_x_t01_s_protonvpnnew_eur,Active,protonvpnnew,c,2,0,1,1,300.0,0.0,50.0,7.309,7.89,10,too small N — hold €5
+tga_c_x_t01_s_vpngen_eur,Stopped,vpngen,c,2,0,0,0,0.0,0.0,0.0,0.0,10.0,6.5,parked
+tga_c_x_t04_s_blancvpn_eur,Stopped,blancvpn,c,2,0,0,0,0.0,0.0,0.0,0.0,10.0,12,parked
+tga_c_x_t04_s_tginfo_eur,Active,tginfo,c,2,0,0,0,0.0,0.0,0.0,4.571,4.9285,10.01,test / wait
+tga_c_x_t05_s_nashvpnnews_eur,Active,nashvpnnews,c,2,0,0,0,0.0,0.0,0.0,5.0,5.0,10.01,test / wait
+tga_c_x_t05_s_quattrovpnne_eur,Active,quattrovpnne,c,2,0,0,0,0.0,0.0,0.0,5.0,4.0,13,test / wait
+tga_c_x_t08_s_siriusvpn_eur,Active,siriusvpn,c,2,0,0,0,0.0,0.0,0.0,4.945,4.955,10.01,test / wait
+tga_c_x_t09_s_nashvpnnews_eur,Active,nashvpnnews,c,2,1,0,0,0.0,50.0,0.0,4.99,4.99,10.01,test / wait
+tga_c_x_t11_s_siriusvpn_eur,Active,siriusvpn,c,2,0,0,0,0.0,0.0,0.0,4.95,4.96,10.01,test / wait
+tga_b_x_t01_s_bloggervpnbo_eur,Stopped,bloggervpnbo,b,1,0,0,0,0.0,0.0,0.0,0.0,8.0,8,parked
+tga_b_x_t01_s_fckrknbot_eur,Stopped,fckrknbot,b,1,0,0,0,0.0,0.0,0.0,0.0,10.0,12,parked
+tga_b_x_t01_s_gruvpnbot_eur,Active,gruvpnbot,b,1,1,1,1,300.0,100.0,100.0,5.0,5.0,6.5,too small N — hold €5
+tga_b_x_t04_s_bloggervpnbo_eur,Active,bloggervpnbo,b,1,1,1,1,2400.0,100.0,100.0,5.0,5.0,7.5,too small N — hold €5
+tga_b_x_t04_s_fastvpnkeybo_eur,Stopped,fastvpnkeybo,b,1,0,0,0,0.0,0.0,0.0,0.0,8.0,7.5,parked
+tga_b_x_t04_s_fckrknbot_eur,Stopped,fckrknbot,b,1,0,0,0,0.0,0.0,0.0,0.0,10.0,12,parked
+tga_b_x_t04_s_openworld_eur,Stopped,openworld,b,1,0,0,0,0.0,0.0,0.0,0.0,10.0,5,parked
+tga_b_x_t04_s_toshibuvpnbo_eur,Stopped,toshibuvpnbo,b,1,0,0,0,0.0,0.0,0.0,0.0,8.0,7.5,parked
+tga_c_x_t01_s_blancvpn_eur,Stopped,blancvpn,c,1,0,0,0,0.0,0.0,0.0,0.0,10.0,12,parked
+tga_c_x_t01_s_quattrovpnne_eur,Stopped,quattrovpnne,c,1,0,0,0,0.0,0.0,0.0,0.0,8.0,8.5,parked
+tga_c_x_t01_s_vpn1news_eur,Stopped,vpn1news,c,1,0,0,0,0.0,0.0,0.0,0.0,8.0,7.5,parked
+tga_c_x_t01_s_vpnliberty_eur,Deleted,vpnliberty,c,1,1,0,0,0.0,100.0,0.0,0.0,1.449,6.5,parked
+tga_c_x_t04_s_amneziavpnne_eur,Deleted,amneziavpnne,c,1,0,0,0,0.0,0.0,0.0,0.0,5.205,5,parked
+tga_c_x_t04_s_barryvpn_eur,Stopped,barryvpn,c,1,0,0,0,0.0,0.0,0.0,0.0,4.82,10,parked
+tga_c_x_t04_s_hermitvpn_eur,Stopped,hermitvpn,c,1,0,0,0,0.0,0.0,0.0,0.0,8.0,8.5,parked
+tga_c_x_t04_s_rozetked_eur,дорогой клик,rozetked,c,1,0,0,0,0.0,0.0,0.0,0.0,5.0,5,parked
+tga_c_x_t04_s_seed4meru_eur,Stopped,seed4meru,c,1,1,0,0,0.0,100.0,0.0,0.0,17.92,8,parked
+tga_c_x_t04_s_uboostrussia_eur,Deleted,uboostrussia,c,1,0,0,0,0.0,0.0,0.0,0.0,5.0,5,parked
+tga_c_x_t04_s_vezarys_eur,Stopped,vezarys,c,1,0,0,0,0.0,0.0,0.0,0.0,8.0,9,parked
+tga_c_x_t06_s_amneziavpnne_eur,Active,amneziavpnne,c,1,0,0,0,0.0,0.0,0.0,4.766,4.766,9,test / wait
+tga_c_x_t06_s_quattrovpnne_eur,Active,quattrovpnne,c,1,0,0,0,0.0,0.0,0.0,4.989,3.989,13,test / wait
+tga_c_x_t06_s_siriusvpn_eur,Active,siriusvpn,c,1,1,0,0,0.0,100.0,0.0,4.96,4.97,10.01,test / wait
+tga_c_x_t07_s_siriusvpn_eur,Active,siriusvpn,c,1,0,0,0,0.0,0.0,0.0,4.925,4.94,10.01,test / wait
+tga_c_x_t09_s_quattrovpnne_eur,Active,quattrovpnne,c,1,0,0,0,0.0,0.0,0.0,5.0,4.0,13,test / wait
+tga_c_x_t10_s_nashvpnnews_eur,Active,nashvpnnews,c,1,1,0,0,0.0,100.0,0.0,5.0,5.0,10.01,test / wait
+tga_c_x_t10_s_siriusvpn_eur,Active,siriusvpn,c,1,0,0,0,0.0,0.0,0.0,4.95,4.95,10.01,test / wait
+tga_b_x_t01_s_actonvpnbot_eur,fail,actonvpnbot,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_b_x_t01_s_biffrobot_eur,Stopped,biffrobot,b,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_b_x_t01_s_bravadavpbot_eur,fail,bravadavpbot,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_b_x_t01_s_brovpnbot_eur,Deleted,brovpnbot,b,0,0,0,0,0.0,0.0,0.0,0.0,0.0,7.5,parked
+tga_b_x_t01_s_clubvpnrubot_eur,Deleted,clubvpnrubot,b,0,0,0,0,0.0,0.0,0.0,0.0,8.0,5,parked
+tga_b_x_t01_s_dstuiroepbot_eur,fail,dstuiroepbot,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_b_x_t01_s_fastvpnkeybo_eur,Stopped,fastvpnkeybo,b,0,0,0,0,0.0,0.0,0.0,0.0,8.0,7.5,parked
+tga_b_x_t01_s_foxxxyvpnbot_eur,fail,foxxxyvpnbot,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_b_x_t01_s_kupolappbot_eur,fail,kupolappbot,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_b_x_t01_s_ledokolsabot_eur,Stopped,ledokolsabot,b,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_b_x_t01_s_lennyvpnbot_eur,fail,lennyvpnbot,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_b_x_t01_s_nevcorevpbot_eur,fail,nevcorevpbot,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_b_x_t01_s_noproblembot_eur,Stopped,noproblembot,b,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_b_x_t01_s_oolifehackbo_eur,On Hold,oolifehackbo,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,6.5,parked
+tga_b_x_t01_s_redstonevbot_eur,fail,redstonevbot,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_b_x_t01_s_topfreedobot_eur,fail,topfreedobot,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_b_x_t01_s_toshibuvpnbo_eur,Stopped,toshibuvpnbo,b,0,0,0,0,0.0,0.0,0.0,0.0,8.0,8.5,parked
+tga_b_x_t01_s_v2raytunbot_eur,fail,v2raytunbot,b,0,0,0,0,0.0,0.0,0.0,8.0,8.0,3,parked
+tga_b_x_t01_s_vpnducksbot_eur,Deleted,vpnducksbot,b,0,0,0,0,0.0,0.0,0.0,0.0,0.0,9,parked
+tga_b_x_t01_s_vpngrozabot_eur,Deleted,vpngrozabot,b,0,0,0,0,0.0,0.0,0.0,0.0,0.0,7.5,parked
+tga_b_x_t01_s_vpnnaposlbot_eur,fail,vpnnaposlbot,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_b_x_t01_s_vpnraketabot_eur,Deleted,vpnraketabot,b,0,0,0,0,0.0,0.0,0.0,0.0,0.0,9,parked
+tga_b_x_t01_s_xrocketvpnbo_eur,Deleted,xrocketvpnbo,b,0,0,0,0,0.0,0.0,0.0,0.0,0.0,9,parked
+tga_b_x_t04_s_actonvpnbot_eur,fail,actonvpnbot,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_b_x_t04_s_biffrobot_eur,Stopped,biffrobot,b,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_b_x_t04_s_bravadavpbot_eur,fail,bravadavpbot,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_b_x_t04_s_brovpnbot_eur,Deleted,brovpnbot,b,0,0,0,0,0.0,0.0,0.0,0.0,0.0,7.5,parked
+tga_b_x_t04_s_clubvpnrubot_eur,Deleted,clubvpnrubot,b,0,0,0,0,0.0,0.0,0.0,0.0,8.0,5,parked
+tga_b_x_t04_s_dstuiroepbot_eur,fail,dstuiroepbot,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_b_x_t04_s_foxxxyvpnbot_eur,fail,foxxxyvpnbot,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_b_x_t04_s_kupolappbot_eur,fail,kupolappbot,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_b_x_t04_s_ledokolsabot_eur,Stopped,ledokolsabot,b,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_b_x_t04_s_lennyvpnbot_eur,fail,lennyvpnbot,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_b_x_t04_s_nevcorevpbot_eur,fail,nevcorevpbot,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_b_x_t04_s_noproblembot_eur,Stopped,noproblembot,b,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_b_x_t04_s_oolifehackbo_eur,On Hold,oolifehackbo,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,6.5,parked
+tga_b_x_t04_s_prostoovpnbo_eur,Deleted,prostoovpnbo,b,0,0,0,0,0.0,0.0,0.0,0.0,0.0,9,parked
+tga_b_x_t04_s_redstonevbot_eur,fail,redstonevbot,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_b_x_t04_s_topfreedobot_eur,fail,topfreedobot,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_b_x_t04_s_v2raytunbot_eur,fail,v2raytunbot,b,0,0,0,0,0.0,0.0,0.0,8.0,8.0,3,parked
+tga_b_x_t04_s_vpnducksbot_eur,Deleted,vpnducksbot,b,0,0,0,0,0.0,0.0,0.0,0.0,0.0,9,parked
+tga_b_x_t04_s_vpngrozabot_eur,Deleted,vpngrozabot,b,0,0,0,0,0.0,0.0,0.0,0.0,0.0,7.5,parked
+tga_b_x_t04_s_vpnnaposlbot_eur,fail,vpnnaposlbot,b,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_b_x_t04_s_vpnraketabot_eur,Deleted,vpnraketabot,b,0,0,0,0,0.0,0.0,0.0,0.0,0.0,9,parked
+tga_b_x_t04_s_xrocketvpnbo_eur,Deleted,xrocketvpnbo,b,0,0,0,0,0.0,0.0,0.0,0.0,0.0,9,parked
+tga_c_x_t01_s_adguardru_eur,Deleted,adguardru,c,0,0,0,0,0.0,0.0,0.0,0.0,8.0,5,parked
+tga_c_x_t01_s_atelecomprov_eur,fail,atelecomprov,c,0,0,0,0,0.0,0.0,0.0,8.0,8.0,3,parked
+tga_c_x_t01_s_barryvpn_eur,Stopped,barryvpn,c,0,0,0,0,0.0,0.0,0.0,0.0,4.93,7,parked
+tga_c_x_t01_s_dedvpn_eur,Deleted,dedvpn,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,9,parked
+tga_c_x_t01_s_domlink_eur,fail,domlink,c,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_c_x_t01_s_followneo_eur,Stopped,followneo,c,0,0,0,0,0.0,0.0,0.0,0.0,5.0,8.5,parked
+tga_c_x_t01_s_greenvpn_eur,Deleted,greenvpn,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,9,parked
+tga_c_x_t01_s_hermitvpn_eur,Deleted,hermitvpn,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,7.5,parked
+tga_c_x_t01_s_planetavpna_eur,Stopped,planetavpna,c,0,0,0,0,0.0,0.0,0.0,0.0,8.0,10,parked
+tga_c_x_t01_s_roskomsvoboda_eur,On Hold,roskomsvoboda,c,0,0,0,0,0.0,0.0,0.0,5.0,5.0,6.5,parked
+tga_c_x_t01_s_rozetked_eur,дорогой клик,rozetked,c,0,0,0,0,0.0,0.0,0.0,0.0,5.0,5,parked
+tga_c_x_t01_s_shukavpn_eur,Deleted,shukavpn,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,7.5,parked
+tga_c_x_t01_s_sotavpn_eur,Active,sotavpn,c,0,0,0,0,0.0,0.0,0.0,5.0,4.0,16,no delivery yet
+tga_c_x_t01_s_surfnetnews_eur,On Hold,surfnetnews,c,0,0,0,0,0.0,0.0,0.0,5.0,5.0,6.5,parked
+tga_c_x_t01_s_surfvpninf2_eur,Active,surfvpninf2,c,0,0,0,0,0.0,0.0,0.0,4.99,5.0,6.5,no delivery yet
+tga_c_x_t01_s_surfvpninfo_eur,Active,surfvpninfo,c,0,0,0,0,0.0,0.0,0.0,4.8505,4.896,6.5,no delivery yet
+tga_c_x_t01_s_vezarys_eur,Stopped,vezarys,c,0,0,0,0,0.0,0.0,0.0,0.0,8.0,8.5,parked
+tga_c_x_t01_s_voxiproxy_eur,fail,voxiproxy,c,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_c_x_t01_s_vpnural_eur,Deleted,vpnural,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,9,parked
+tga_c_x_t01_s_youfastvpn_eur,Stopped,youfastvpn,c,0,0,0,0,0.0,0.0,0.0,0.0,8.0,8.5,parked
+tga_c_x_t04_s_atelecomprov_eur,fail,atelecomprov,c,0,0,0,0,0.0,0.0,0.0,8.0,8.0,3,parked
+tga_c_x_t04_s_blokiruneta_eur,Stopped,blokiruneta,c,0,0,0,0,0.0,0.0,0.0,0.0,5.0,5,parked
+tga_c_x_t04_s_dedvpn_eur,Stopped,dedvpn,c,0,0,0,0,0.0,0.0,0.0,0.0,8.0,10,parked
+tga_c_x_t04_s_domlink_eur,fail,domlink,c,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_c_x_t04_s_followneo_eur,Stopped,followneo,c,0,0,0,0,0.0,0.0,0.0,0.0,5.0,8.5,parked
+tga_c_x_t04_s_greenvpn_eur,Deleted,greenvpn,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,9,parked
+tga_c_x_t04_s_planetavpna_eur,Deleted,planetavpna,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,9,parked
+tga_c_x_t04_s_protonvpnnew_eur,Stopped,protonvpnnew,c,0,0,0,0,0.0,0.0,0.0,0.0,8.0,9,parked
+tga_c_x_t04_s_quattrovpnne_eur,Deleted,quattrovpnne,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,7.5,parked
+tga_c_x_t04_s_roskomsvoboda_eur,On Hold,roskomsvoboda,c,0,0,0,0,0.0,0.0,0.0,5.0,5.0,6.5,parked
+tga_c_x_t04_s_shukavpn_eur,Deleted,shukavpn,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,7.5,parked
+tga_c_x_t04_s_sotavpn_eur,Active,sotavpn,c,0,0,0,0,0.0,0.0,0.0,5.0,4.0,16,no delivery yet
+tga_c_x_t04_s_surfnetnews_eur,On Hold,surfnetnews,c,0,0,0,0,0.0,0.0,0.0,5.0,5.0,6.5,parked
+tga_c_x_t04_s_surfvpninf2_eur,Active,surfvpninf2,c,0,0,0,0,0.0,0.0,0.0,4.987,5.0,6.5,no delivery yet
+tga_c_x_t04_s_surfvpninfo_eur,Active,surfvpninfo,c,0,0,0,0,0.0,0.0,0.0,4.9155,4.948,6.5,no delivery yet
+tga_c_x_t04_s_voxiproxy_eur,fail,voxiproxy,c,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_c_x_t04_s_vpnliberty_eur,Deleted,vpnliberty,c,0,0,0,0,0.0,0.0,0.0,0.0,2.74,5,parked
+tga_c_x_t04_s_vpnural_eur,Stopped,vpnural,c,0,0,0,0,0.0,0.0,0.0,0.0,8.0,10,parked
+tga_c_x_t04_s_youfastvpn_eur,Stopped,youfastvpn,c,0,0,0,0,0.0,0.0,0.0,0.0,8.0,8.5,parked
+tga_c_x_t05_s_aveselovru_eur,Stopped,aveselovru,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t05_s_barryvpn_eur,Stopped,barryvpn,c,0,0,0,0,0.0,0.0,0.0,0.0,4.97998,10.01,parked
+tga_c_x_t05_s_getoutlinevp_eur,fail,getoutlinevp,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t05_s_itopvpnru_eur,Stopped,itopvpnru,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t05_s_purrnetnews_eur,Stopped,purrnetnews,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t05_s_runvpn_eur,Stopped,runvpn,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t05_s_saferunet_eur,Stopped,saferunet,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t05_s_shukavpn_eur,On Hold,shukavpn,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,16,parked
+tga_c_x_t05_s_sotavpn_eur,Active,sotavpn,c,0,0,0,0,0.0,0.0,0.0,5.0,4.0,16,no delivery yet
+tga_c_x_t05_s_vlessvpns_eur,Stopped,vlessvpns,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t05_s_vpndrift_eur,Stopped,vpndrift,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t05_s_vpnproxymast_eur,Stopped,vpnproxymast,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t06_s_aveselovru_eur,Stopped,aveselovru,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t06_s_barryvpn_eur,Stopped,barryvpn,c,0,0,0,0,0.0,0.0,0.0,0.0,4.96499,10.01,parked
+tga_c_x_t06_s_getoutlinevp_eur,fail,getoutlinevp,c,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_c_x_t06_s_itopvpnru_eur,Stopped,itopvpnru,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t06_s_nashvpnnews_eur,Active,nashvpnnews,c,0,0,0,0,0.0,0.0,0.0,4.99,4.995,10.01,no delivery yet
+tga_c_x_t06_s_purrnetnews_eur,Stopped,purrnetnews,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t06_s_runvpn_eur,Stopped,runvpn,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t06_s_saferunet_eur,Stopped,saferunet,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t06_s_shukavpn_eur,On Hold,shukavpn,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,16,parked
+tga_c_x_t06_s_sotavpn_eur,Active,sotavpn,c,0,0,0,0,0.0,0.0,0.0,5.0,4.0,16,no delivery yet
+tga_c_x_t06_s_vlessvpns_eur,Stopped,vlessvpns,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t06_s_vpndrift_eur,Stopped,vpndrift,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t06_s_vpnproxymast_eur,Stopped,vpnproxymast,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t07_s_amneziavpnne_eur,Active,amneziavpnne,c,0,0,0,0,0.0,0.0,0.0,4.7732,4.7732,9,no delivery yet
+tga_c_x_t07_s_aveselovru_eur,Stopped,aveselovru,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t07_s_barryvpn_eur,Stopped,barryvpn,c,0,0,0,0,0.0,0.0,0.0,0.0,4.925,10.01,parked
+tga_c_x_t07_s_getoutlinevp_eur,fail,getoutlinevp,c,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_c_x_t07_s_itopvpnru_eur,Stopped,itopvpnru,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t07_s_nashvpnnews_eur,Active,nashvpnnews,c,0,0,0,0,0.0,0.0,0.0,4.97,4.98,10.01,no delivery yet
+tga_c_x_t07_s_quattrovpnne_eur,Active,quattrovpnne,c,0,0,0,0,0.0,0.0,0.0,5.0,4.0,13,no delivery yet
+tga_c_x_t07_s_shukavpn_eur,On Hold,shukavpn,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,16,parked
+tga_c_x_t07_s_sotavpn_eur,Active,sotavpn,c,0,0,0,0,0.0,0.0,0.0,5.0,4.0,16,no delivery yet
+tga_c_x_t07_s_vlessvpns_eur,Stopped,vlessvpns,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t07_s_vpnproxymast_eur,Stopped,vpnproxymast,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t08_s_aveselovru_eur,Stopped,aveselovru,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t08_s_barryvpn_eur,Stopped,barryvpn,c,0,0,0,0,0.0,0.0,0.0,0.0,4.94499,10.01,parked
+tga_c_x_t08_s_getoutlinevp_eur,fail,getoutlinevp,c,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_c_x_t08_s_itopvpnru_eur,Stopped,itopvpnru,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t08_s_nashvpnnews_eur,Active,nashvpnnews,c,0,0,0,0,0.0,0.0,0.0,4.99,4.995,10.01,no delivery yet
+tga_c_x_t08_s_purrnetnews_eur,Stopped,purrnetnews,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t08_s_runvpn_eur,Stopped,runvpn,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t08_s_saferunet_eur,Stopped,saferunet,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t08_s_shukavpn_eur,On Hold,shukavpn,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,16,parked
+tga_c_x_t08_s_sotavpn_eur,Active,sotavpn,c,0,0,0,0,0.0,0.0,0.0,5.0,4.0,16,no delivery yet
+tga_c_x_t08_s_vlessvpns_eur,Stopped,vlessvpns,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t08_s_vpndrift_eur,Stopped,vpndrift,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t08_s_vpnproxymast_eur,Stopped,vpnproxymast,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t09_s_aveselovru_eur,Stopped,aveselovru,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t09_s_barryvpn_eur,Stopped,barryvpn,c,0,0,0,0,0.0,0.0,0.0,0.0,4.96999,10.01,parked
+tga_c_x_t09_s_getoutlinevp_eur,fail,getoutlinevp,c,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_c_x_t09_s_itopvpnru_eur,Stopped,itopvpnru,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t09_s_shukavpn_eur,On Hold,shukavpn,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,16,parked
+tga_c_x_t09_s_sotavpn_eur,Active,sotavpn,c,0,0,0,0,0.0,0.0,0.0,5.0,4.0,16,no delivery yet
+tga_c_x_t09_s_vlessvpns_eur,Stopped,vlessvpns,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t09_s_vpnproxymast_eur,Stopped,vpnproxymast,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t10_s_amneziavpnne_eur,Active,amneziavpnne,c,0,0,0,0,0.0,0.0,0.0,4.768,4.768,9,no delivery yet
+tga_c_x_t10_s_aveselovru_eur,Stopped,aveselovru,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t10_s_barryvpn_eur,Stopped,barryvpn,c,0,0,0,0,0.0,0.0,0.0,0.0,4.98,10.01,parked
+tga_c_x_t10_s_getoutlinevp_eur,fail,getoutlinevp,c,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_c_x_t10_s_itopvpnru_eur,Stopped,itopvpnru,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t10_s_quattrovpnne_eur,Active,quattrovpnne,c,0,0,0,0,0.0,0.0,0.0,4.989,3.989,13,no delivery yet
+tga_c_x_t10_s_shukavpn_eur,On Hold,shukavpn,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,16,parked
+tga_c_x_t10_s_sotavpn_eur,Active,sotavpn,c,0,0,0,0,0.0,0.0,0.0,5.0,4.0,16,no delivery yet
+tga_c_x_t10_s_vlessvpns_eur,Stopped,vlessvpns,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t10_s_vpnproxymast_eur,Stopped,vpnproxymast,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t11_s_aveselovru_eur,Stopped,aveselovru,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t11_s_barryvpn_eur,Stopped,barryvpn,c,0,0,0,0,0.0,0.0,0.0,0.0,4.92497,10.01,parked
+tga_c_x_t11_s_getoutlinevp_eur,fail,getoutlinevp,c,0,0,0,0,0.0,0.0,0.0,5.0,5.0,5,parked
+tga_c_x_t11_s_itopvpnru_eur,Stopped,itopvpnru,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t11_s_nashvpnnews_eur,Active,nashvpnnews,c,0,0,0,0,0.0,0.0,0.0,4.995,5.0,10.01,no delivery yet
+tga_c_x_t11_s_quattrovpnne_eur,Active,quattrovpnne,c,0,0,0,0,0.0,0.0,0.0,5.0,4.0,13,no delivery yet
+tga_c_x_t11_s_shukavpn_eur,On Hold,shukavpn,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,16,parked
+tga_c_x_t11_s_sotavpn_eur,Active,sotavpn,c,0,0,0,0,0.0,0.0,0.0,5.0,4.0,16,no delivery yet
+tga_c_x_t11_s_vlessvpns_eur,Stopped,vlessvpns,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_c_x_t11_s_vpnproxymast_eur,Stopped,vpnproxymast,c,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,parked
+tga_s_x_x_l_q01_eur,Active,q01,s,0,0,0,0,0.0,0.0,0.0,19.82,19.9325,22.5,no delivery yet
+tga_s_x_x_l_q02_eur,Active,q02,s,0,0,0,0,0.0,0.0,0.0,19.7075,19.91,22.5,no delivery yet
