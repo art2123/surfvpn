@@ -1,5 +1,57 @@
 [
   {
+    "type": "brand_keep",
+    "code": "tga_c_x_t04_s_surfvpnnews_eur",
+    "ad_id": "118",
+    "url": "https://ads.telegram.org/account/ad/118",
+    "cpm": 20,
+    "cur_cpm": 10.0,
+    "cur_bud": 19.71,
+    "cur_daily": 19.97,
+    "ensure_budget_min": 20,
+    "ensure_daily_min": 15,
+    "why": "brand always-on getsurfvpnbo/surfvpnnews"
+  },
+  {
+    "type": "brand_keep",
+    "code": "tga_c_x_t01_s_surfvpnnews_eur",
+    "ad_id": "117",
+    "url": "https://ads.telegram.org/account/ad/117",
+    "cpm": 20,
+    "cur_cpm": 10.0,
+    "cur_bud": 19.23,
+    "cur_daily": 19.96,
+    "ensure_budget_min": 20,
+    "ensure_daily_min": 15,
+    "why": "brand always-on getsurfvpnbo/surfvpnnews"
+  },
+  {
+    "type": "brand_keep",
+    "code": "tga_b_x_t04_s_getsurfvpnbo_eur",
+    "ad_id": "110",
+    "url": "https://ads.telegram.org/account/ad/110",
+    "cpm": 20,
+    "cur_cpm": 5.0,
+    "cur_bud": 14.68,
+    "cur_daily": 9.94,
+    "ensure_budget_min": 20,
+    "ensure_daily_min": 15,
+    "why": "brand always-on getsurfvpnbo/surfvpnnews"
+  },
+  {
+    "type": "brand_keep",
+    "code": "tga_b_x_t01_s_getsurfvpnbo_eur",
+    "ad_id": "109",
+    "url": "https://ads.telegram.org/account/ad/109",
+    "cpm": 20,
+    "cur_cpm": 5.0,
+    "cur_bud": 14.765,
+    "cur_daily": 9.965,
+    "ensure_budget_min": 20,
+    "ensure_daily_min": 15,
+    "why": "brand always-on getsurfvpnbo/surfvpnnews"
+  },
+  {
     "type": "cpm",
     "code": "tga_s_x_x_l_q01_eur",
     "ad_id": "11",
