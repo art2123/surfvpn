@@ -1,0 +1,210 @@
+{
+  "stamp": "2026-09-30 morning",
+  "csv7": {
+    "all": {
+      "start": 3767.0,
+      "trial": 432.0,
+      "buyers": 295.0,
+      "rev": 328134.0
+    },
+    "brand": {
+      "start": 675.0,
+      "trial": 99.0,
+      "buyers": 117.0,
+      "rev": 206506.0
+    },
+    "own": {
+      "start": 34.0,
+      "trial": 2.0,
+      "buyers": 7.0,
+      "rev": 13678.0
+    },
+    "cold": {
+      "start": 3058.0,
+      "trial": 331.0,
+      "buyers": 171.0,
+      "rev": 107950.0
+    },
+    "brand_own": {
+      "start": 709.0,
+      "trial": 101.0,
+      "buyers": 124.0,
+      "rev": 220184.0
+    }
+  },
+  "csv6": {
+    "all": {
+      "start": 3692.0,
+      "trial": 425.0,
+      "buyers": 282.0,
+      "rev": 316716.0
+    },
+    "brand": {
+      "start": 655.0,
+      "trial": 97.0,
+      "buyers": 114.0,
+      "rev": 201688.0
+    },
+    "own": {
+      "start": 34.0,
+      "trial": 2.0,
+      "buyers": 7.0,
+      "rev": 13678.0
+    },
+    "cold": {
+      "start": 3003.0,
+      "trial": 326.0,
+      "buyers": 161.0,
+      "rev": 101350.0
+    },
+    "brand_own": {
+      "start": 689.0,
+      "trial": 99.0,
+      "buyers": 121.0,
+      "rev": 215366.0
+    }
+  },
+  "csv5": {
+    "all": {
+      "start": 3590.0,
+      "trial": 414.0,
+      "buyers": 261.0,
+      "rev": 291488.0
+    },
+    "brand": {
+      "start": 620.0,
+      "trial": 92.0,
+      "buyers": 105.0,
+      "rev": 183830.0
+    },
+    "own": {
+      "start": 34.0,
+      "trial": 2.0,
+      "buyers": 7.0,
+      "rev": 13678.0
+    },
+    "cold": {
+      "start": 2936.0,
+      "trial": 320.0,
+      "buyers": 149.0,
+      "rev": 93980.0
+    },
+    "brand_own": {
+      "start": 654.0,
+      "trial": 94.0,
+      "buyers": 112.0,
+      "rev": 197508.0
+    }
+  },
+  "delta_6_7": [
+    {
+      "camp": "tga_b_x_t04_s_getsurfvpnbo_eur",
+      "ds": 11.0,
+      "dt": 2.0,
+      "db": 3.0,
+      "dr": 4818.0,
+      "start": 330.0,
+      "trial": 52.0,
+      "buyers": 69.0,
+      "rev": 127380.0,
+      "seg": "brand"
+    },
+    {
+      "camp": "tga_b_x_t04_s_sota_eur",
+      "ds": 20.0,
+      "dt": 2.0,
+      "db": 3.0,
+      "dr": 3000.0,
+      "start": 394.0,
+      "trial": 60.0,
+      "buyers": 27.0,
+      "rev": 22200.0,
+      "seg": "cold"
+    },
+    {
+      "camp": "tga_b_x_t09_s_sota_eur",
+      "ds": 18.0,
+      "dt": 3.0,
+      "db": 1.0,
+      "dr": 1800.0,
+      "start": 192.0,
+      "trial": 24.0,
+      "buyers": 14.0,
+      "rev": 13350.0,
+      "seg": "cold"
+    },
+    {
+      "camp": "tga_b_x_t01_s_sota_eur",
+      "ds": 14.0,
+      "dt": 0.0,
+      "db": 3.0,
+      "dr": 900.0,
+      "start": 321.0,
+      "trial": 55.0,
+      "buyers": 21.0,
+      "rev": 12340.0,
+      "seg": "cold"
+    },
+    {
+      "camp": "tga_b_x_t21_l_kopv_eur",
+      "ds": 0.0,
+      "dt": 0.0,
+      "db": 2.0,
+      "dr": 600.0,
+      "start": 41.0,
+      "trial": 5.0,
+      "buyers": 9.0,
+      "rev": 8400.0,
+      "seg": "cold"
+    },
+    {
+      "camp": "tga_c_x_t04_s_shadownetvpn_eur",
+      "ds": 0.0,
+      "dt": 0.0,
+      "db": 1.0,
+      "dr": 300.0,
+      "start": 52.0,
+      "trial": 10.0,
+      "buyers": 9.0,
+      "rev": 2870.0,
+      "seg": "cold"
+    },
+    {
+      "camp": "tga_b_x_t01_s_getsurfvpnbo_eur",
+      "ds": 9.0,
+      "dt": 0.0,
+      "db": 0.0,
+      "dr": 0.0,
+      "start": 345.0,
+      "trial": 47.0,
+      "buyers": 48.0,
+      "rev": 79126.0,
+      "seg": "brand"
+    },
+    {
+      "camp": "tga_c_x_t01_s_shadownetvpn_eur",
+      "ds": 2.0,
+      "dt": 0.0,
+      "db": 0.0,
+      "dr": 0.0,
+      "start": 31.0,
+      "trial": 3.0,
+      "buyers": 1.0,
+      "rev": 300.0,
+      "seg": "cold"
+    },
+    {
+      "camp": "tga_c_x_t04_s_lagomvpn_eur",
+      "ds": 1.0,
+      "dt": 0.0,
+      "db": 0.0,
+      "dr": 0.0,
+      "start": 29.0,
+      "trial": 3.0,
+      "buyers": 5.0,
+      "rev": 4639.0,
+      "seg": "cold"
+    }
+  ],
+  "fx": 95.0
+}
