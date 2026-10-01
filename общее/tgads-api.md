@@ -42,7 +42,7 @@ Aj.apiRequest(method, data, onSuccess)
 | **decrAdBudget** | `owner_id`, `ad_id`, `amount`; опц. `check_only: 1` (проверка до unlock UI) | Decrease / Withdraw from budget. После недавнего Active — ждать ~5–10 мин, иначе error *recently active* |
 | **editAdDailyBudget** | `owner_id`, `ad_id`, `daily_budget`, часто `popup: 1` | Daily budget |
 | **editAdTitle** | `owner_id`, `ad_id`, `title` | Edit title (= наш `start_param`) |
-| **getAdsList** | `owner_id`, `offset_id` | подгрузка таблицы аккаунта |
+| **getAdsList** | `owner_id`, `offset_id` (пагинация: ответ `items` + `next_offset_id`; старые скрипты ждали `ads`/`ad_list` — пусто) | подгрузка таблицы аккаунта |
 | **deleteAd** | `owner_id`, `ad_id`; затем повтор с `confirm_hash` из первого ответа | Delete (двухшагово: confirm → delete). В **Связках** строку не удаляем — `статус=Deleted` |
 
 Пример статуса (как при массовом Active 17.09.2026):

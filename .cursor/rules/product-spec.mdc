@@ -14,7 +14,7 @@ When writing ads, creatives, landing or bot copy:
 - **YouTube without ads on all nodes** (product note 14.09.2026). Do not invent what that means technically.
 - **AI (Gemini etc.) works on any node** — no need to pick a country for it.
 - **Split tunnel:** reachable RU / BY / KZ sites stay out of the VPN. Faster “home” internet, fewer “no VPN” lockouts. Always allow “не всегда”.
-- **Speed:** “высокая скорость” is ok. Do not invent Mbps, gigabit *user* speed, “unlimited speed”, or server counts. Gigabit on top nodes is capacity, not an ad number.
+- **Speed:** “высокая скорость” is ok. “до N Гбит/с” ok as node capacity ceiling, not a guaranteed client speed. Do not invent fixed Mbps “you will get”, “unlimited speed”, or server counts.
 - **Support is 19/7**, not 24/7. Smarts fail over targeted IP blocks / node drops.
 - Targeted per-site routing for a client group (esp. corp) is support/B2B, not mass-ad copy.
 - **No device cap** in the KB. Say iOS / Android / Windows / Mac / Linux / TV. Do not say “up to N devices” or “unlimited devices”.
